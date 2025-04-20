@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition For managed RAP'
+define service ZRAP_SERVICE_DEFINITION {
+  expose ZRAP_CDS_ROOT_Entity;
+}
